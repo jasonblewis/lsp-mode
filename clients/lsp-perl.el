@@ -27,7 +27,7 @@
 (require 'lsp-mode)
 
 (defgroup lsp-perl nil
-  "LSP support for Perl"
+  "LSP support for Perl."
   :group 'lsp-mode
   :link '(url-link "https://github.com/richterger/Perl-LanguageServer")
   :package-version '(lsp-mode . "6.3"))
